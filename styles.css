@@ -1,0 +1,9 @@
+.container {
+    background-color: #09263e;
+    height: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
