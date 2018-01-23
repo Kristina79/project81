@@ -7,3 +7,23 @@ html, body {
     height: 100%;
     margin: 0;
 }
+
+.header {
+    position: fixed;
+    top: 0px;
+    height: 63px;
+    width: 100%;
+    background-color: #861fbf;
+}
+.sidebar {
+    position: fixed;
+    width: 360px;
+    top: 0px;
+    height: 100%;
+    right: -360px;
+    background-color: #736357;
+    transition: 0.5s all;
+}
+.sidebar-open {
+    right: 0px;
+}
