@@ -1,5 +1,5 @@
 .container {
-    background-color: #09263e;
+    background-color: #0d1526;
     height: 100%;
 }
 
@@ -13,7 +13,7 @@ html, body {
     top: 0px;
     height: 63px;
     width: 100%;
-    background-color: #861fbf;
+    background-color: #6f7894;
 }
 .sidebar {
     position: fixed;
@@ -21,7 +21,7 @@ html, body {
     top: 0px;
     height: 100%;
     right: -360px;
-    background-color: #736357;
+    background-color: #0d1526;
     transition: 0.5s all;
 }
 .sidebar-open {
